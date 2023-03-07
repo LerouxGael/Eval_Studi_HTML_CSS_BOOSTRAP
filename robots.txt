@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aajh.netlify.app/sitemap.xml
